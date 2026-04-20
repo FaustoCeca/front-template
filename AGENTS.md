@@ -13,6 +13,7 @@ Use these skills for detailed patterns on-demand:
 | `zod-4` | New API (z.email(), z.uuid()) | [SKILL.md](skills/zod-4/SKILL.md) |
 | `zustand-5` | Persist, selectors, slices | [SKILL.md](skills/zustand-5/SKILL.md) |
 | `vitest` | Unit testing, React Testing Library | [SKILL.md](skills/vitest/SKILL.md) |
+| `frontend-design` | Production-grade UI design, bold aesthetics, typography | [SKILL.md](skills/frontend-design/SKILL.md) |
 | `tanstack-query` | Query keys, caching, mutations, SSR integration | [SKILL.md](skills/tanstack-query/SKILL.md) |
 | `tanstack-router` | Type-safe routing, data loading, search params | [SKILL.md](skills/tanstack-router/SKILL.md) |
 
